@@ -24,5 +24,3 @@ This project enables **efficient document search and intelligent Q&A** from cust
 - [Python-dotenv](https://pypi.org/project/python-dotenv/) – Environment Management  
 
 ---
-
-## 📂 Project Structure  
